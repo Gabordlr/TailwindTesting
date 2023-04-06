@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nvrButton {
+  @apply m-0.5 text-center bg-black text-white w-1/4 focus:grow
+   focus:text-black hover:bg-slate-600;
+}

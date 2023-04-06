@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Compiled CSS
+public/css/
+
+# Environment variables
+.env
+
+# OS-generated files
+.DS_Store
+Thumbs.db
